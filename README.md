@@ -29,7 +29,7 @@ Studying programming since 2019, becoming an enthusiastic of web & mobile develo
 
 
 <div>
-  <h2>🛠️ Teck Stack</h2>
+  <h2>🛠️ Tech Stack</h2>
 </div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="html" width="36" />
