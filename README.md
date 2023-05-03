@@ -29,16 +29,13 @@ Studying programming since 2019, becoming an enthusiastic of web & mobile develo
 
 
 <div>
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ My Interests</h2>
 </div>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="html" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="36" />
-<div>
+
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,react,graphql,nextjs,nodejs,prisma,tailwind,figma)](https://skillicons.dev)
+
+  
+
   
 <br><br>
   
