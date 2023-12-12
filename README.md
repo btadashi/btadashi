@@ -1,6 +1,15 @@
 ### Welcome! 👋
 <h1>Bruno Tadashi </h1>
 I am a Software Engineer and back-end developer with over 3 years of hands-on experience in Java. My passion lies in helping companies navigate the complexities of enterprise applications, specializing in the development and maintenance of critical modules.
+<br /><br />
+
+⚡️ Played a key role in developing a sophisticated tax optimization system in Java, utilizing advanced SQL queries which successfully identified and assisted in recovering over $15 million in assets for our clients over the last 3 years.
+
+⚡️ Achieved significant reductions in system errors, data import errors, and manual data entry through the implementation of robust solutions, leading to an impressive 45% reduction in data import errors and ensuring unparalleled data accuracy.
+
+⚡️ Spearheaded various projects aimed at optimizing tax-related processes, showcasing a proactive approach to problem-solving and a commitment to innovation.
+
+
 
 <!--
 - 🔭 I’m currently working on ...
