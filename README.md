@@ -1,15 +1,7 @@
 ### Welcome! 👋
 <h1>Bruno Tadashi </h1>
-I am a Software Engineer and back-end developer with over 3 years of hands-on experience in Java. My passion lies in helping companies navigate the complexities of enterprise applications, specializing in the development and maintenance of critical modules.
+ I'm Software Engineer, contributing my technical expertise to connect the corporate environment with software development. My professional journey is characterized by delivering robust and efficient solutions, transforming complex challenges into growth opportunities.
 <br /><br />
-
-⚡️ Played a key role in developing a sophisticated tax optimization system in Java, utilizing advanced SQL queries which successfully identified and assisted in recovering over $15 million in assets for our clients over the last 3 years.
-
-⚡️ Achieved significant reductions in system errors, data import errors, and manual data entry through the implementation of robust solutions, leading to an impressive 45% reduction in data import errors and ensuring unparalleled data accuracy.
-
-⚡️ Spearheaded various projects aimed at optimizing tax-related processes, showcasing a proactive approach to problem-solving and a commitment to innovation.
-
-
 
 <!--
 - 🔭 I’m currently working on ...
@@ -36,13 +28,7 @@ I am a Software Engineer and back-end developer with over 3 years of hands-on ex
   <h2>🧑‍💻 Main stack</h2>
 </div>
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres)](https://skillicons.dev)
-
-<div>
-  <h2>📚 What I'm studying</h2>
-</div>
-
- [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nextjs,tailwind,jest)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,js)](https://skillicons.dev)
  
 <div>
   <h2>👥 Social Links</h2>
